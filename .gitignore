@@ -3,3 +3,5 @@ outputs
 output
 models
 model_output
+TinyLlama-1.1B-Chat-v1.0
+*.json
